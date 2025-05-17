@@ -5,7 +5,7 @@ This project is a modern and responsive user interface inspired by **Tripadvisor
 ## 🔍 Preview
 
 to view:
-
+https://dorene18.github.io/tripadvisor/
 
 ## 🛠️ Built With
 
